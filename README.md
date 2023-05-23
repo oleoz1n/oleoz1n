@@ -12,7 +12,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
  <img align="center" alt="PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="ORACLE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicons/master/icons/oracle/oracle-original.svg">
+ <img align="center" alt="ORACLE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
 </div>
  
  <br>
